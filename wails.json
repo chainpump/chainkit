@@ -1,13 +1,13 @@
 {
   "$schema": "https://wails.io/schemas/config.v2.json",
-  "name": "chainkit",
+  "name": "ChainKit",
   "outputfilename": "chainkit",
-  "frontend:install": "npm install",
-  "frontend:build": "npm run build",
-  "frontend:dev:watcher": "npm run dev",
+  "frontend:install": "pnpm install",
+  "frontend:build": "pnpm run build",
+  "frontend:dev:watcher": "pnpm run dev",
   "frontend:dev:serverUrl": "auto",
   "author": {
     "name": "waite",
-    "email": "waite1x@outlook.com"
+    "email": "waite0506@gmail.com"
   }
 }

@@ -1,8 +1,6 @@
-module changeme
+module github.com/chainpump/chainkit
 
 go 1.21
-
-toolchain go1.21.5
 
 require github.com/wailsapp/wails/v2 v2.7.1
 
@@ -35,5 +33,3 @@ require (
 	golang.org/x/sys v0.13.0 // indirect
 	golang.org/x/text v0.13.0 // indirect
 )
-
-// replace github.com/wailsapp/wails/v2 v2.7.1 => C:\Users\waite\go\pkg\mod
